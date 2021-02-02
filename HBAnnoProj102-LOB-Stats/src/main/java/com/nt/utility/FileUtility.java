@@ -91,5 +91,5 @@ public class FileUtility {
 		}
 		return "photo stored Successfully in to" + destPath;
 	}
-
+System.out.println("hiiiiiiiiiiiii");
 }
